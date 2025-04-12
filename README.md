@@ -17,7 +17,7 @@
 |----------|-----------|-----------|----------|------------|------------|
 | [snakegpt.chat](https://snakegpt.chat) | GPT-4, GPT-4o, GPT-3.5, GPT-o1, DeepSeek | 有 | ⭐⭐⭐⭐⭐ | 国内邮箱 | 支持MJ绘图，极速响应，适合开发与写作 |
 | [gptcat.cc](https://gptcat.cc) | GPT-4, GPT-o1, GPT-4o, Claude, DeepSeek | 有 | ⭐⭐⭐⭐⭐ | 国内邮箱 | 多模型支持，语音/视频对话、可调用API |
-| [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | ⭐⭐⭐⭐ | 国内邮箱 | 提供API与免费额度，适合开发者 |
+| [ai-panda.xyz](https://ai-panda.xyz) | GPT-4, GPT-3.5 | 有 | ⭐⭐⭐⭐ | 国内邮箱 | 提供API与免费额度，适合开发者 |
 | [gptdog.online](https://gptdog.online) | GPT-3.5 | 有 | ⭐⭐⭐ | 国内邮箱 | 简洁易用，适合新手体验 |
 
 ---
